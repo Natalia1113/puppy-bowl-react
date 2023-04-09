@@ -1,0 +1,40 @@
+{
+  "name": "puppy-bowl-react",
+  "version": "1.0.0",
+  "description": "Way to display puppies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Natalia1113/puppy-bowl-react.git"
+  },
+  "keywords": [
+    "puppy",
+    "bowl"
+  ],
+  "author": "Natalia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natalia1113/puppy-bowl-react/issues"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
